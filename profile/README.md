@@ -54,3 +54,18 @@ Selain itu, penggunaan message broker seperti RabbitMQ atau Kafka memungkinkan p
 
 - Service \
 ![Diagram](images/bidding/bidding_code_service.png)
+
+## Akhtar Eijaz Putranto [2406495571] - Order & Notification Module
+
+### Component Diagram
+![Diagram](images/order_notification/order_notification_component.png)
+
+### Code Diagrams
+- Order Module Structure
+![Diagram](images/order_notification/order_code_structure.png)
+
+- Notification Module Structure
+![Diagram](images/order_notification/notification_code_structure.png)
+
+- Event-Driven Integration
+![Diagram](images/order_notification/order_notification_integration.png)
