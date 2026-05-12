@@ -69,3 +69,18 @@ Selain itu, penggunaan message broker seperti RabbitMQ atau Kafka memungkinkan p
 
 - Event-Driven Integration
 ![Diagram](images/order_notification/order_notification_integration.png)
+
+## Zhafira Uzma [2406495451] - Catalog Module
+
+### Component Diagram
+![Diagram](images/catalog/component_catalog.png)
+
+### Code Diagrams
+- Catalog Module Structure
+  ![Diagram](images/catalog/catalog_modul.png)
+
+- Catalog Category Management Structure
+  ![Diagram](images/catalog/catalog_CatagoryManagement.png)
+
+- Catalog Event Integration
+  ![Diagram](images/catalog/catalog_event.png)
