@@ -3,10 +3,10 @@
 ## B13 - Bidmart
 
 ### Context Diagram
-![alt text](image.png)
+![Diagram](images/context.png)
 
 ### Container Diagram
-![alt text](image-1.png)
+![Diagram](images/container.png)
 
 ### Deployment Diagram
-![alt text](image-2.png)
+![Diagram](images/deployment.png)
