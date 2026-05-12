@@ -14,6 +14,13 @@
 ### Deployment Diagram
 ![Diagram](images/deployment_diagram.png)
 
+## Deliverable G.2
+
+### Container Diagram (Future Plans)
+![Diagram](images/container_future.png)
+
+### Context Diagram (Future Plans)
+![Diagram](images/context_future.png)
 
 
 ## Kevin Cornellius Widjaja [2406428781] - Bidding Module
@@ -22,14 +29,14 @@
 ![Diagram](images/bidding/bidding_component.png)
 
 ### Code Diagrams
-- Adapters
+- Adapters \
 ![Diagram](images/bidding/bidding_code_adapters.png)
 
-- Domain
+- Domain \
 ![Diagram](images/bidding/bidding_code_domain.png)
 
-- Ports
+- Ports \
 ![Diagram](images/bidding/bidding_code_ports.png)
 
-- Service
+- Service \
 ![Diagram](images/bidding/bidding_code_service.png)
