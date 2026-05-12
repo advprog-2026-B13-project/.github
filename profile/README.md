@@ -2,6 +2,9 @@
 
 ## B13 - Bidmart
 
+
+### Deliverable G.1
+
 ### Context Diagram
 ![Diagram](images/context.png)
 
@@ -9,4 +12,4 @@
 ![Diagram](images/container.png)
 
 ### Deployment Diagram
-![Diagram](images/deployment.png)
+![Diagram](images/deployment_diagram.png)
